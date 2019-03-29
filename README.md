@@ -9,7 +9,7 @@ This plugin allows you to execute tests in an openfin browser.
 Install using
 
 ```bash
-$ npm install --save-dev git://github.com/reset-dev/karma-openfin-launcher.git
+$ npm install --save-dev reset-dev/karma-openfin-launcher
 ```
 
 ## Configuration
