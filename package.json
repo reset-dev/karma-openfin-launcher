@@ -16,10 +16,11 @@
     "openfin"
   ],
   "author": "Paul Cable <paul@highspecsolutions.com>",
-  "dependencies": {},
-  "peerDependencies": {
-    "karma": ">=0.9",
+  "dependencies": {
     "openfin-cli": "^2.0.7"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
   },
   "license": "MIT",
   "devDependencies": {
